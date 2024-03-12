@@ -7,7 +7,7 @@
 
 ##  Screenshot
 
-![Testimonials Grid Section Screenshot](https://github.com/Anis-Web/testimonials_grid_section/design/desktop-preview.jpg?raw=true)
+![Testimonials Grid Section Screenshot](https://github.com/Anis-Web/testimonials_grid_section/blob/master/design/desktop-design.jpg)
 
 
 ## The challenge
